@@ -1,0 +1,13 @@
+export const HOME_PAGE_URL              = "/";
+export const LOGIN_PAGE_URL             = "/login";
+export const REGISTER_PAGE_URL          = "/register";
+export const FORGOT_PASSWORD_PAGE_URL   = "/forgot-password";
+export const CONTRACT_URL               = "/contract/";
+export const CONTRACT_PAGE_URL          = "/contract/:id";
+export const CONTRACT_LIST_PAGE_URL     = "/contract/list";
+export const CONTRACT_TREE_PAGE_URL     = "/contract/tree";
+export const CONTRACT_TABLE_PAGE_URL    = "/contract/table";
+export const CONTRACT_TYPE_PAGE_URL     = "/contract-type";
+export const UPLOAD_PAGE_URL            = "/upload";
+export const ANALYSES_PAGE_URL          = "/analyses";
+export const WORKFLOW_PAGE_URL          = "/workflow";
